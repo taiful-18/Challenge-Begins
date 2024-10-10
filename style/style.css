@@ -1,0 +1,86 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    font-family: "Azeret Mono", monospace;
+}
+
+.banner {
+    background: url("../images/Hero-bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.banner-contant {
+    width: 998px;
+    margin: 0px auto;
+    padding: 26px 0px 45px 0px;
+    text-align: center;
+}
+
+.banner-images {
+    margin-bottom: 32px;
+
+}
+
+.banner-hading {
+    color: rgb(13, 19, 33);
+    font-size: 48px;
+    font-weight: 800;
+    line-height: 68px;
+    letter-spacing: 0%;
+}
+
+.banner-des {
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    margin-top: 24px;
+}
+
+.banner-button {
+    margin-top: 32px;
+}
+
+.btn {
+    padding: 21px 24px;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 23px;
+    letter-spacing: 0%;
+    border-radius: 8px;
+    background: rgb(13, 19, 33);
+}
+
+.akash {}
+
+.akash {}
+
+.akash {}
+
+.akash {}
+
+.akash {}
+
+.akash {}
+
+.akash {}
+
+.akash {}
+
+.akash {}
+
+.akash {}
+
+.akash {}
+
+.akash {}
+
+.akash {}
+
+.akash {}
