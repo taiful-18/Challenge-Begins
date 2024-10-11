@@ -2,7 +2,8 @@
     margin: 0px;
     padding: 0px;
 }
-html{
+
+html {
     scroll-behavior: smooth;
 }
 
@@ -306,6 +307,8 @@ footer {
     display: flex;
     align-items: center;
     justify-content: space-between;
+    border-radius: 16px;
+    background: rgba(13, 19, 33, 0.03);
 }
 
 .contact-text {}
@@ -313,17 +316,3 @@ footer {
 .contact-title {}
 
 .contact-icon {}
-
-.akash {}
-
-.akash {}
-
-.akash {}
-
-.akash {}
-
-.akash {}
-
-.akash {}
-
-.akash {}
